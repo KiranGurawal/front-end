@@ -1,0 +1,135 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+.textP {
+    font-size: small;
+}
+.content{
+  color: rgb(32, 32, 167);
+}
+.btn1{
+    margin-left: 25px;
+}
+
+.container {
+    padding-top: 45px;
+    height: auto;
+  }
+
+.innercontainer {
+    padding-top: 20%;
+}
+
+.blockfirst {
+    width: 400px;
+    float: left;
+    padding: 0px 4px 0px 4px;
+    
+}
+
+.block {
+    width: 150px;
+    padding: 4px;
+    float: left;
+   
+
+}
+.block:hover{
+    border-style: solid;
+    border-color: rgb(35, 14, 140);
+    border-radius: 5px;
+
+
+}
+
+.blockfifth {
+    width: 150px;
+    float: left;
+    padding: 4px;
+
+}
+
+button {
+    background-color: rgb(57, 55, 55);
+    color: white;
+    border-radius: 3px;
+    text-align: center;
+
+}
+
+.space1 {
+    padding-top: 1.2rem;
+}
+
+.space2 {
+    padding-top: 2.3rem;
+}
+
+.space3 {
+    padding-top: 3.1em;
+}
+
+.space4 {
+    padding-top: 2rem;
+}
+
+.round {
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.header{
+    height: 70px;
+    background-color: #f8f9fa;
+}
+.logo{
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 20px;
+    width: 370px;
+    float: left;
+}
+.navbar{
+    float: left;
+    width:800px;
+    margin-left: 10px;
+    margin-top: 2px;
+      
+}
+.split{
+    color: rgb(244, 41, 41);
+}
+.navbar ul li{
+    text-decoration: none;
+    padding: 10px 15px 10px 30px;
+    list-style: none;
+    float: left;
+
+}
+.navbar ul li a{
+    color: rgb(215, 15, 15);
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.lists{
+    text-decoration: none;
+    list-style: none;
+}
+.side{
+    height: 200px;
+    width: 200px;
+    margin: 20px 0px 6px 10px;
+
+}
+.upper{
+    margin-top: 30px;
+}
+.blockimg{
+    height :15px;
+     width:15px;
+
+}
